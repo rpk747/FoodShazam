@@ -1,2 +1,2 @@
 # FoodShazam
-Food recommender
+Recipe recommender
