@@ -208,7 +208,7 @@ class Char(object):
 #======================================
 
 
-food_bot = BotHandler("697499453:AAFutaF8HeQ1PB2oHhtRZYd4cBa03RHgREY")
+food_bot = BotHandler("_BOT__TOKEN_")
 greetings = ('hello', 'hi', 'greetings', 'sup', 'hey')
 dishes = ('appetizer', 'main courses', 'desserts', 'soup', 'lunch')
 
