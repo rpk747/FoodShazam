@@ -143,7 +143,7 @@ class BotHandler:
 def main():
     # Create the Updater and pass it your bot's token.
 
-    updater = Updater('697499453:AAFutaF8HeQ1PB2oHhtRZYd4cBa03RHgREY')  # ('526078856:AAG4GcA22xB8TFgUkYoTiKxiA7njjDK_iJg')  # bot token here
+    updater = Updater(' botToken')  # bot token here
     dispatcher = updater.dispatcher
 
     dispatcher.add_handler(MessageHandler(Filters.text, echo))
